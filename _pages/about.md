@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Link to video
+Embed video
+
+![](/images/gysbertjapix.png)
+
+
