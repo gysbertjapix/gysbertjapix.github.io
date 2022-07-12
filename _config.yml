@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gysbert Japix"
+  name             : 
   avatar           : "gysbertjapix.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Amsterdam"
   employer         :
   pubmed           : 
