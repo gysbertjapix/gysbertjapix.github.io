@@ -6,9 +6,13 @@ redirect_from:
   - /about.html
 ---
 
-Embed video
-
-![](/images/gysbertjapix.png)
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/06heSIDZAp8/0.jpg)](http://www.youtube.com/watch?v=06heSIDZAp8 "Video Title")
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/06heSIDZAp8"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
