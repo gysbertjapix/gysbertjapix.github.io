@@ -3,8 +3,6 @@ title: "Offerte"
 permalink: /offerte/
 ---
 
-Test
-
 <form class="form" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSehi6hz4h-a02lqrSbJ9DreY2nSjbxvEpmk-cBnUPosEbwVJQ/formResponse">
   
   <label>Naam*</label>
@@ -14,10 +12,19 @@ Test
   <input name="entry.764249793" type="text" />
   
   <label>Lengte video*</label>
-  <input name="entry.250976144" type="text" required />
+  <input type="radio" name="entry.250976144" value="0-2min" id="group_250976144_1">
+  <input type="radio" name="entry.250976144" value="3-5min" id="group_250976144_2">
+  <input type="radio" name="entry.250976144" value="6-10min" id="group_250976144_3">
+  <input type="radio" name="entry.250976144" value=">10min" id="group_250976144_4">
+  <input type="radio" name="entry.250976144" value="weet ik nog niet" id="group_250976144_5">
+
   
   <label>Opzet video*</label>
   <input name="entry.1872826293" type="text" required />
+  <input type="radio" name="entry.1872826293" value="neutraal: spreken zonder edit" id="group_1872826293_1">
+  <input type="radio" name="entry.1872826293" value="greenscreen: spreken met achtergronden, animatie, slides of andere effecten" id="group_1872826293_2">
+  <input type="radio" name="entry.1872826293" value="bewegend: rondleiding, samenspel etc." id="group_1872826293_3">
+  <input type="radio" name="entry.1872826293" value="weet ik nog niet" id="group_1872826293_4">
   
   <label>Doel en boodschap*</label>
   *Probeer in max 1000 tekens je video en het doel van je video uit te leggen:
