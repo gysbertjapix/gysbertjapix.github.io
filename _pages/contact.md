@@ -3,7 +3,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-Bel of stuur ons een berichtje en we zullen zo snel mogelijk contact met u opnemen.
+Bel of stuur me een berichtje en ik neem zo snel mogelijk contact met je op.
 Wil je een offerte aanvragen? Ga dan naar de [offerte](gysbertjapix.github.io/offerte) pagina.
 
 Gysbert Japix Studios
