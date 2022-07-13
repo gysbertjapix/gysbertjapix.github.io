@@ -65,7 +65,7 @@ permalink: /offerte/
   <input name="entry.1065046570" maxlength="1000" type="text" />
    
   <label>Email</label>
-  <input name="entry.1423248220" type="email" required />
+  <input name="entry.1423248220" type="email" placeholder="name@email.com" required />
   
   <input name="submit" type="Send" />
   
