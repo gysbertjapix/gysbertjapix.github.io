@@ -10,4 +10,4 @@ Telefoon: +31 6 83138391
 
 E-mail: [hi@gysbertjapix.com](mailto:hi@gysbertjapix.com)
 
-<iframe src="https://www.google.com/maps/d/embed?mid=17bLQGTZa7EeZ6C3J-m0vZ2SCGTNyJgw&ehbc=2E312F" width="600" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=17bLQGTZa7EeZ6C3J-m0vZ2SCGTNyJgw&ehbc=2E312F&z=10" width="600" height="480"></iframe>
