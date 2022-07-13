@@ -5,7 +5,7 @@ permalink: /contact/
 
 Stel hier uw vraag en wij zullen zo snel mogelijk contact met u opnemen.
 
-Wil je een offerte aanvragen? Ga dan naar de [offerte] pagina.
+Wil je een offerte aanvragen? Ga dan naar de [offerte](gysbertjapix.github.io/offerte) pagina.
 
 Gysbert Japix Studios
 
