@@ -1,5 +1,4 @@
 ---
-title: "thanks"
 permalink: /thanks/
 ---
 
