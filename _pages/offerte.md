@@ -28,3 +28,4 @@ permalink: /offerte/
   
   <input name="submit" type="Send" />
   
+</form>
