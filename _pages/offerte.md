@@ -3,47 +3,7 @@ title: "Offerte"
 permalink: /offerte/
 ---
 
-<style>
-        input {
-            padding: 5px 10px;
-            margin-bottom: 10px
-        }
-        .table {
-          max-width: 100%;
-          overflow: hidden;
-        }
 
-        table {
-            text-align: left
-        }
-
-        td,
-        th {
-            padding: 10px
-        }
-
-        td:first-child,
-        th:first-child {
-            background-color: #3cb371;
-            color: #fff;
-            max-width: 170px;
-        }
-
-        td:last-child,
-        th:last-child {
-            background-color: #444;
-            color: #fff
-        }
-
-        table {
-            transform: rotate(180deg)
-        }
-
-        table>tr {
-            transform: rotate(-180deg)
-        }
-  </style>
-    
 <form class="form" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSehi6hz4h-a02lqrSbJ9DreY2nSjbxvEpmk-cBnUPosEbwVJQ/formResponse">
   
   <label>Naam</label>
