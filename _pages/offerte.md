@@ -11,22 +11,25 @@ permalink: /offerte/
   <label>Bedrijf</label>
   <input name="entry.764249793" type="text" />
   
-  <label>Lengte video*</label>
+  <fieldset>
+    <legend>Lengte video*</legend>
   <input type="radio" name="entry.250976144" value="0-2min" id="group_250976144_1"><label for="group_250976144_1">0-2min</label>
   <input type="radio" name="entry.250976144" value="3-5min" id="group_250976144_2"><label for="group_250976144_2">3-5min</label>
   <input type="radio" name="entry.250976144" value="6-10min" id="group_250976144_3"><label for="group_250976144_3">6-10min</label>
   <input type="radio" name="entry.250976144" value=">10min" id="group_250976144_4"><label for="group_250976144_4">>10min</label>
   <input type="radio" name="entry.250976144" value="weet ik nog niet" id="group_250976144_5"><label for="group_250976144_5">weet ik nog niet</label>
+  </fieldset>
 
-  
-  <label>Opzet video*</label>
+   <fieldset>
+    <legend>Opzet video*</legend>
   <input type="radio" name="entry.1872826293" value="neutraal: spreken zonder edit" id="group_1872826293_1"><label for="group_1872826293_1">neutraal: spreken zonder edit</label>
   <input type="radio" name="entry.1872826293" value="greenscreen: spreken met achtergronden, animatie, slides of andere effecten" id="group_1872826293_2"><label for="group_1872826293_2">greenscreen: spreken met achtergronden, animatie, slides of andere effecten</label>
   <input type="radio" name="entry.1872826293" value="bewegend: rondleiding, samenspel etc." id="group_1872826293_3"><label for="group_1872826293_3">bewegend: rondleiding, samenspel etc.</label>
   <input type="radio" name="entry.1872826293" value="weet ik nog niet" id="group_1872826293_4"><label for="group_1872826293_4">weet ik nog niet</label>
-  
+    </fieldset>
+
   <label>Doel en boodschap*</label>
-  *Probeer in max 1000 tekens je video en het doel van je video uit te leggen:
+  <em><small>*Probeer in max 1000 tekens je video en het doel van je video uit te leggen:</small></em>
   <textarea rows="5" name="entry.1045781291" maxlength="1000" type="text" required ></textarea>
    
   <label>Overige bijzonderheden</label>
