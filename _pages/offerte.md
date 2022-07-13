@@ -6,7 +6,8 @@ permalink: /offerte/
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='https://gysbertjapix.github.io/thanks/';}"></iframe>
 
-<form class="form" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSehi6hz4h-a02lqrSbJ9DreY2nSjbxvEpmk-cBnUPosEbwVJQ/formResponse">
+<form class="form" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSehi6hz4h-a02lqrSbJ9DreY2nSjbxvEpmk-cBnUPosEbwVJQ/formResponse" method="post" target="hidden_iframe"
+    onsubmit="submitted=true;">
   
   <label>Naam*</label>
   <input name="entry.2005620554" type="text" required />
