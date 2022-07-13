@@ -21,7 +21,7 @@ Test
   
   <label>Doel en boodschap*</label>
   *Probeer in max 1000 tekens je video en het doel van je video uit te leggen:
-  <textarea rows="5" name="entry.1045781291" maxlength="1000" type="text" required />
+  <textarea rows="5" name="entry.1045781291" maxlength="1000" type="text" required ></textarea>
    
   <label>Overige bijzonderheden</label>
   <input name="entry.1065046570" maxlength="1000" type="text" />
