@@ -13,30 +13,30 @@ permalink: /offerte/
   
   <fieldset>
     <legend>Lengte video*</legend>
-  <label><input type="radio" name="entry.250976144" value="0-2min" id="group_250976144_1"/>0-2min</label>
-  <label><input type="radio" name="entry.250976144" value="3-5min" id="group_250976144_2"/>3-5min</label>
-  <label><input type="radio" name="entry.250976144" value="6-10min" id="group_250976144_3"/>6-10min</label>
-  <label><input type="radio" name="entry.250976144" value=">10min" id="group_250976144_4"/>10min</label>
-  <label><input type="radio" name="entry.250976144" value="weet ik nog niet" id="group_250976144_5"/>weet ik nog niet</label>
+  <label><input type="radio" name="entry.1423248220" value="0-2min" id="group_1423248220_1"/>0-2min</label>
+  <label><input type="radio" name="entry.1423248220" value="3-5min" id="group_1423248220_2"/>3-5min</label>
+  <label><input type="radio" name="entry.1423248220" value="6-10min" id="group_1423248220_3"/>6-10min</label>
+  <label><input type="radio" name="entry.1423248220" value=">10min" id="group_1423248220_4"/>10min</label>
+  <label><input type="radio" name="entry.1423248220" value="weet ik nog niet" id="group_1423248220_5"/>weet ik nog niet</label>
   </fieldset>
 
    <fieldset>
     <legend>Opzet video*</legend>
-  <label><input type="radio" name="entry.1872826293" value="neutraal: spreken zonder edit" id="group_1872826293_1"/>neutraal: spreken zonder edit</label>
-  <label><input type="radio" name="entry.1872826293" value="greenscreen: spreken met achtergronden, animatie, slides of andere effecten" id="group_1872826293_2"/>greenscreen: spreken met achtergronden, animatie, slides of andere effecten</label>
-  <label><input type="radio" name="entry.1872826293" value="bewegend: rondleiding, samenspel etc." id="group_1872826293_3"/>bewegend: rondleiding, samenspel etc.</label>
-  <label><input type="radio" name="entry.1872826293" value="weet ik nog niet" id="group_1872826293_4"/>weet ik nog niet</label>
+  <label><input type="radio" name="entry.1467810461" value="neutraal: spreken zonder edit" id="group_1467810461_1"/>neutraal: spreken zonder edit</label>
+  <label><input type="radio" name="entry.1467810461" value="greenscreen: spreken met achtergronden, animatie, slides of andere effecten" id="group_1467810461_2"/>greenscreen: spreken met achtergronden, animatie, slides of andere effecten</label>
+  <label><input type="radio" name="entry.1467810461" value="bewegend: rondleiding, samenspel etc." id="group_1467810461_3"/>bewegend: rondleiding, samenspel etc.</label>
+  <label><input type="radio" name="entry.1467810461" value="weet ik nog niet" id="group_1467810461_4"/>weet ik nog niet</label>
     </fieldset>
 
   <label>Doel en boodschap*</label>
   <em><small>*Probeer in max 1000 tekens je video en het doel van je video uit te leggen:</small></em>
-  <textarea rows="5" name="entry.1045781291" maxlength="1000" type="text" required ></textarea>
+  <textarea rows="5" name="entry.250976144" maxlength="1000" type="text" required ></textarea>
    
   <label>Overige bijzonderheden</label>
-  <input name="entry.1065046570" maxlength="1000" type="text" />
+  <input name="entry.1872826293" maxlength="1000" type="text" />
    
   <label>Email</label>
-  <input name="entry.1423248220" type="email" placeholder="name@email.com" required />
+  <input name="entry.1045781291" type="email" placeholder="name@email.com" required />
   
   <label>Telefoonnummer</label>
   <input name="entry.1065046570" type="text" required />
