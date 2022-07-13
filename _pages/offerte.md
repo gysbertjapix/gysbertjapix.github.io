@@ -39,10 +39,10 @@ permalink: /offerte/
   <label>Overige bijzonderheden</label>
   <input name="entry.1872826293" maxlength="1000" type="text" />
    
-  <label>Email</label>
+  <label>Email*</label>
   <input name="entry.1045781291" type="email" placeholder="name@email.com" required />
   
-  <label>Telefoonnummer</label>
+  <label>Telefoonnummer*</label>
   <input name="entry.1065046570" type="text" required />
   
   <button type="submit">Verstuur</button>
