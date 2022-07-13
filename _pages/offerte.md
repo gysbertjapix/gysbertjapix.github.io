@@ -3,6 +3,7 @@ title: "Offerte"
 permalink: /offerte/
 ---
 
+Test
 
 <form class="form" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSehi6hz4h-a02lqrSbJ9DreY2nSjbxvEpmk-cBnUPosEbwVJQ/formResponse">
   
@@ -31,6 +32,6 @@ permalink: /offerte/
   <label>Telefoonnummer</label>
   <input name="entry.1065046570" type="text" required />
   
-  <button type="submit">Send</button>
+  <button type="submit">Verstuur</button>
   
 </form>
