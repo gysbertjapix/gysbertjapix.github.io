@@ -4,7 +4,7 @@ permalink: /contact/
 ---
 
 Bel of stuur me een berichtje en ik neem zo snel mogelijk contact met je op.
-Wil je direct een offerte aanvragen? Doe dat [hier](gysbertjapix.github.io/offerte){: .btn .btn-outline--primary .btn--small}
+Wil je direct een offerte aanvragen? Doe dat [hier](gysbertjapix.github.io/offerte).
 
 Telefoon: +31 6 83138391
 
