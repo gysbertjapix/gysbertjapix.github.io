@@ -29,7 +29,7 @@ permalink: /offerte/
   <label><input type="radio" name="entry.1467810461" class="radio" value="neutraal: spreken zonder edit" id="group_1467810461_1"/>neutraal: spreken zonder edit</label>
   <label><input type="radio" name="entry.1467810461" class="radio" value="greenscreen: spreken met achtergronden, animatie, slides of andere effecten" id="group_1467810461_2"/>greenscreen: spreken met achtergronden, animatie, slides of andere effecten</label>
   <label><input type="radio" name="entry.1467810461" class="radio" value="bewegend: rondleiding, samenspel etc." id="group_1467810461_3"/>bewegend: rondleiding, samenspel etc.</label>
-  <label><input type="radio" name="entry.1467810461" class="radio" value="anders, namelijk:" id="group_1467810461_4"/>weet ik nog niet<input type="text" name="other_reason"/></label>
+  <label><input type="radio" name="entry.1467810461" class="radio" value="anders, namelijk:" id="group_1467810461_4"/>anders, namelijk:<input type="text" name="other_reason"/></label>
     </fieldset>
     
   <label>Doel en boodschap*</label>
