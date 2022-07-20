@@ -29,7 +29,7 @@ permalink: /offerte/
   <label><input type="radio" name="entry.1467810461" class="btn" value="anders, namelijk:" id="group_1467810461_4"/> anders, namelijk: <input type="text" name="other_reason"/></label>
     
   <label><strong>Doel en boodschap*</strong></label>
-  <em><small>*Probeer in max 1000 tekens je video en het doel van je video uit te leggen:</small></em>
+  <em><small>*Licht in max 1000 tekens de opzet en het doel van je video toe:</small></em>
   <textarea rows="5" name="entry.250976144" maxlength="1000" type="text" required ></textarea>
    
   <label><strong>Overige bijzonderheden</strong></label>
